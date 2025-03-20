@@ -1,4 +1,8 @@
 # SQL_LoRA+QLoRA Project Documentation
+
+![image](https://github.com/user-attachments/assets/222f9c7b-2cd6-4b66-b427-9f3c7fb08ce6)
+
+
 ## Overview
 SQL_LoRA+QLoRA is a project that implements Low-Rank Adaptation (LoRA) and Quantized Low-Rank Adaptation (QLoRA) techniques for SQL-related machine learning tasks. This document provides an overview of the project structure and components.
 
